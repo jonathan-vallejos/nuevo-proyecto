@@ -1,0 +1,8 @@
+Esto es un t�tulo
+
+Esto es un t�tulo centrado
+
+Aqu� va un p�rrafo con negrita, cursiva, subrayado y colores.
+
+
+Y esto de arriba es la foto de unas Suricatas.
