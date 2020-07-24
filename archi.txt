@@ -1,8 +1,7 @@
-Esto es un t�tulo
+Esto es un titulo
 
-Esto es un t�tulo centrado
+Esto es un titulo centrado
 
-Aqu� va un p�rrafo con negrita, cursiva, subrayado y colores.
-
+Aqui va un parrafo con negrita, cursiva, subrayado y colores.
 
 Y esto de arriba es la foto de unas Suricatas.
