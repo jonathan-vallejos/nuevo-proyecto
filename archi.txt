@@ -1,7 +1,9 @@
 Esto es un titulo
 
-Esto es un titulo centrado
+Esto es un titulo cen|trado  
 
 Aqui va un parrafo con negrita, cursiva, subrayado y colores.
 
 Y esto de arriba es la foto de unas Suricatas.
+
+Ya arrancamos perri...
