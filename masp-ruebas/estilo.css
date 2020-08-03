@@ -3,3 +3,25 @@
   font-family: "Courier New", Courier, monospace;
   background-color: darkgrey;
 }
+#list {
+  width: 70%;
+  padding: ;
+  text-align: left;
+  border: 1px solid #ddd;
+  margin: ;
+}
+
+#container {
+  width: 70%;
+  padding: ;
+  text-align: left;
+  border: 1px solid #ddd;
+  margin: ;
+}
+#img {
+  image-resolution: ;
+}
+#p {
+  font-size: medium;
+  font-family: cursive;
+}
