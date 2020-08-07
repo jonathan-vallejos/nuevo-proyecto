@@ -19,9 +19,13 @@
   margin: ;
 }
 #img {
+<<<<<<< HEAD
   image-resolution: ;
 }
 #p {
   font-size: medium;
   font-family: cursive;
+=======
+  image-resolution: initial;
+>>>>>>> cabecera
 }
