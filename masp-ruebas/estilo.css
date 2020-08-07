@@ -1,6 +1,6 @@
 * {
   color: rgb(9, 9, 53);
-  font-family: "Courier New", Courier, monospace;
+  font-family: "arial", Courier, monospace;
   background-color: darkgrey;
 }
 #list {
@@ -28,4 +28,11 @@
 =======
   image-resolution: initial;
 >>>>>>> cabecera
+}
+#conocimientos {
+  width: 70%;
+  padding: ;
+  text-align: left;
+  border: 1px solid #ddd;
+  margin: ;
 }
